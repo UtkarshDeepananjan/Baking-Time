@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dd2c00</color>
+    <color name="colorPrimaryDark">#a30000</color>
+    <color name="colorAccent">#dd2c00</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="ingredients_card">#E3F2FD</color>
+</resources>

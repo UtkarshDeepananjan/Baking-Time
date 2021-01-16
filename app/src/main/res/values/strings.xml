@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Baking Time</string>
+    <string name="ingredients_label">Ingredients</string>
+    <string name="dish_image">dish image</string>
+    <string name="add_to_widget_menu">Add to Widget</string>
+    <string name="servings_widget">(Servings: %d)</string>
+</resources>

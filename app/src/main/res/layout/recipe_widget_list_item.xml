@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@+id/tv_widget_ingredient_name"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="16sp"
+    android:gravity="start"
+    android:textColor="@color/black"
+    android:layout_gravity="start"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
